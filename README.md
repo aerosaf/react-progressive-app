@@ -1,2 +1,1 @@
-# react-progressive-app
-Front end progressive web app for booking (React &amp; Redux)
+# GemX Web App React, Redux, & Jwt + React Route
